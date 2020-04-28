@@ -1,7 +1,6 @@
 ---
 title: "EVaRegression: A novel approach to Stable Regression"
-excerpt: "Description TBD 1<br/><img src='/images/images/EVaR_ML_Project.pdf'>"
+excerpt: "1<br/><img src='/images/EVaR_ML_Project.pdf'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+You can find the poster for this project [here](/images/EVaR_ML_Project.pdf).
