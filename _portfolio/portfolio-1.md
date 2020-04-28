@@ -1,5 +1,5 @@
 ---
-title: "Stable Support Vector Machines and Logistic Regression"
+title: "EVaRegression: A novel approach to Stable Regression"
 excerpt: "Description TBD 1<br/><img src='/images/images/EVaR_ML_Project.pdf'>"
 collection: portfolio
 ---
