@@ -1,5 +1,5 @@
 ---
-title: "Stable Support Vector Machines and Logistic Regression"
+title: "Stable Support Vector Machines and Logistic Regression (Dec. 2019)"
 excerpt: "An extension of Stable Regression from (Bertsimas and Paskov, 2019) to SVMs and Logistic Regression, allowing coefficients to be up to 200% more stable (in terms of standard deviation)."
 collection: portfolio
 ---
