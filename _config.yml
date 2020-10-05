@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hamza Tazi Bouardi"
   avatar           : "photo_cv_htb.png"
-  bio              : "Currently graduate student at MIT pursuing a Master of Business Analytics under the supervision of Prof. Dimitris Bertsimas."
-  location         : "Cambridge, MA"
+  bio              : "Currently Data Scientist @ BCG GAMMA, former graduate student at MIT (Master of Business Analytics 2020) under the supervision of Prof. Dimitris Bertsimas, and at École Centrale Paris (BS General Engineering 2017, MS Applied Mathematics 2019)."
+  location         : "New York, NY"
   employer         : "BCG GAMMA"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=xIZOQLoAAAAJ&hl=en&authuser=2&oi=ao"
   email            : "htazi@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
