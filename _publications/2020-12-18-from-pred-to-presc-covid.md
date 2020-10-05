@@ -2,7 +2,7 @@
 title: "From Predictions to Prescriptions: A Data-Driven Response to COVID-19"
 collection: publications
 permalink: /publication/2020-12-18-from-pred-to-presc-covid
-excerpt: 'Paper gathering the whole [CovidAnalytics.io](www.CovidAnalytics.io) research effort, with applications of Operations Research and Management Science spanning personalized medicine, optimal resource allocation, and epidemiological modeling.'
+excerpt: 'Paper gathering the whole [CovidAnalytics](www.covidanalytics.io) research effort, with applications of Operations Research and Management Science spanning personalized medicine, optimal resource allocation, and epidemiological modeling.'
 date: 2020-12-18
 venue: 'Health Care Management Science (currently under review)'
 paperurl: 'http://hamzatazib.github.io/files/From_predictions_to_prescriptions-A_data-driven_response_to_COVID-19.pdf'
