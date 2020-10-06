@@ -1,7 +1,7 @@
 ---
 title: "Forecasting COVID-19 and Analyzing the Effect of Government Interventions"
 collection: publications
-permalink: /publication/2020-11-10-delphi-paper
+permalink: /publication/DELPHI-paper
 excerpt: 'Paper describing and analyzing the performance and predictions of the DELPHI (Differential Equations Lead to Predictions of Hospitalizations and Infections) epidemiological model for COVID-19. This paper also analyzes the effect of government interventions, as it is a central part of the model and its extensions.'
 date: 2020-11-10
 venue: 'Operations Research (major revision)'
