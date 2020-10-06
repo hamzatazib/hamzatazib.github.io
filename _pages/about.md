@@ -24,4 +24,10 @@ See [Research & Publications](https://hamzatazib.github.io/publications/) for mo
 
 Projects
 ------
-TBD
+I have worked on many Machine Learning oriented projects during my year at MIT, among which the following:
+
+- **Machines as Money Managers with Morningstar**: part of the Analytics Lab class (Fall 2019), with three other students, we explored the use of Reinforcement Learning (Proximal Policy Optimization) to imitate portfolio managers in their decisions of buying/holding/selling, as opposed to a more conventional classification approach. While the code and report are the property of Morningstar, we managed to obtain an accuracy of 0.79 (vs. 0.89 with XGBoost).
+- **Stable Support Vector Machines and Logistic Regression**: part of the Statistical Learning Theory and Applications class (Fall 2019), you can find more details about this project [here](https://hamzatazib.github.io/portfolio/3-stable-svm-lr/).
+- **EVaRegression: A novel approach to Stable Regression**: part of the Machine Learning under a Modern Optimization Lens class (Fall 2019), you can find more details about this project [here](https://hamzatazib.github.io/portfolio/2-EVaR/).
+- **An Anchoring Approach to Medical Information Extraction using Clinical BERT Embeddings**: part of the Machine Learning for Healthcare class (Spring 2020), you can find more details about this project [here](https://hamzatazib.github.io/portfolio/1-NER_clinicalBERT/).
+- **Optimizing Content Likely Optimization with Comcast**:  part of our Analytics Capstone (Spring & Summer 2020), we implemented a recommender system tool using collaborative and content-based filtering methods on a dataset of 40K+ customers’ viewing profiles and 300K+ shows in order to inform marketing efforts and improve customer viewing experience. Our proof of concept showed an uplift in revenues of $5M+ as well as an improvement of 10% in accuracy to target the right customers compared to the methodology currently used.
