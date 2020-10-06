@@ -9,4 +9,4 @@ To accomplish this, we created a noisy-labeled dataset by combining information 
 
 We explored two different top layers to perform NER: Linear layer or Bi-LSTM + CRF layer. We also explored how well our model performed using varying levels of the i2b2 data (0%, 20%, 50%, 70%, and 100%) in the final training step to see if gold-labeled data was necessary for producing a reliable medical concept extraction model, showing promising results in how generalizable such a warm start could be.
 
-You can find the [final report](/images/Anchoring_clinicalBERT_NER.pdf) for this project and the Python [source code](https://github.com/hamzatazib/Anchoring_clinicalBERT_NER) by clicking on the hyperlinks.
+[Final Report](/images/Anchoring_clinicalBERT_NER.pdf) [Code](https://github.com/hamzatazib/Anchoring_clinicalBERT_NER)
