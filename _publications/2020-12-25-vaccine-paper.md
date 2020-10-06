@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Vaccine Allocation to Combat the COVID-19 Pandemic"
 collection: publications
-permalink: /publication/2020-12-25-vaccine-paper
+permalink: /publication/optimal-vaccine-allocation-covid-19-paper
 excerpt: "Paper describing a coordinate descent algorithm that iterates between optimizing vaccine allocations (e.g. based on the population's risk classes) and simulating the dynamics of the pandemic (using an extension of the DELPHI epidemiological model) in order to reduce the number of deaths given a certain allocated budget."
 date: 2020-12-25
 venue: 'ArXiV'
