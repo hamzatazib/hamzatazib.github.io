@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a Data Scientist at BCG GAMMA who graduated from the Massachusetts Institute of Technology with a Master of Business Analytics, under the supervision of Prof. Dimitris Bertsimas, with whom I did research on Machine Learning and Optimization applied to Healthcare. Before going to MIT, I obtained a Bachelor of Science in Engineering and a Master of Science in Applied Mathematics from École Centrale Paris (now CentraleSupélec, part of Paris-Saclay University). I have also interned at Wavestone's Machine Learning & Data Lab, as well as at BCG GAMMA, both as a Data Scientist. You can find my resume [here](files/CV_TAZIBOUARDI_HAMZA_UPDATED.pdf)
+I am a Data Scientist at BCG GAMMA who graduated from the Massachusetts Institute of Technology with a Master of Business Analytics, under the supervision of Prof. Dimitris Bertsimas, with whom I did research on Machine Learning and Optimization applied to Healthcare. Before going to MIT, I obtained a Bachelor of Science in Engineering and a Master of Science in Applied Mathematics from École Centrale Paris (now CentraleSupélec, part of Paris-Saclay University). I have also interned at Wavestone's Machine Learning & Data Lab, as well as at BCG GAMMA, both as a Data Scientist. You can find my resume [here](files/CV_TAZIBOUARDI_HAMZA_UPDATED.pdf). During the past few years, I have taken part in Machine Learning and Optimization projects spanning a wide range of industries, among which Finance (Morningstar & Wavestone), Retail (BCG GAMMA), Airlines (BCG GAMMA), Transportation (Wavestone), Healthcare (MIT) and Entertainment (Comcast).
 
 Research
 ======
