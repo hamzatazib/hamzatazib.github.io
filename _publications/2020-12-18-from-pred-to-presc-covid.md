@@ -2,7 +2,7 @@
 title: "From Predictions to Prescriptions: A Data-Driven Response to COVID-19"
 collection: publications
 permalink: /publication/from-predictions-to-prescriptions-covid-19-paper
-excerpt: 'Paper gathering the whole [CovidAnalytics](www.covidanalytics.io) research effort, with applications of Operations Research and Management Science spanning personalized medicine, optimal resource allocation, and epidemiological modeling.'
+excerpt: 'Paper gathering the whole CovidAnalytics.io research effort, with applications of Operations Research and Management Science spanning personalized medicine, optimal resource allocation, and epidemiological modeling.'
 date: 2020-12-18
 venue: 'Health Care Management Science (currently under review)'
 paperurl: 'https://www.medrxiv.org/content/10.1101/2020.06.26.20141127v1.full.pdf'
